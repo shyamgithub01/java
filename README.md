@@ -29,5 +29,5 @@ This is a simple **Java console-based application** that allows you to manage st
 
 ---
 
-## 📂 Folder Structure
+
 
